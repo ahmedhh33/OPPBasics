@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Student std1=new Student(1,"Mohammed","A","1020"); // creating a bjects
+            Student std1=new Student(1,"Mohammed","1020"); // creating a bjects
             //std1.id = 1;
             //std1.name = "Mohammed";
             //std1.grade = "A";
@@ -14,7 +14,7 @@
             //Console.WriteLine("Grade :"+ std1.grade);
             //std1.stusy(); // calling the method which show what object can do 
 
-            Student std2 = new Student(2, "Umran","A+","1090"); // creating a bjects
+            Student std2 = new Student(2, "Umran","1090"); // creating a bjects
             //std2.id = 123;
             //std2.name = "Omran";
             //std2.grade = "A+";
